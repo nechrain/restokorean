@@ -1,0 +1,71 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.resto {
+  margin-bottom: 40px;
+}
+.count {
+  display: flex;
+  flex-direction: flex;
+  justify-content: center;
+}
+.imagecarte {
+  width: 18rem;
+  border-radius: 7%;
+  margin-bottom: 20px;
+}
+h3 {
+  font-family: fantasy;
+}
+.navbar {
+  background-image: linear-gradient(
+    to right,
+    rgb(147, 211, 221),
+    rgb(61, 133, 127)
+  );
+  height: 120px;
+}
+.logoNAV {
+  border-radius: 50%;
+  height: 100px;
+}
+.footer {
+  background-image: linear-gradient(
+    to right,
+    rgb(103, 193, 207),
+    rgb(61, 133, 127)
+  );
+}
+.navbar ul li {
+  list-style: none;
+  display: inline;
+  justify-content: space-around;
+  padding-left: 50px;
+  font-family: fantasy;
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.logo {
+  border-radius: 50%;
+  height: 150px;
+  margin-top: 20px;
+}
+.price {
+  background-color: aquamarine;
+  border-radius: 7%;
+  border: 3px solid rgb(196, 132, 59);
+  width: 80px;
+}
+
+.boutonedit {
+  background-color: cadetblue;
+}
+
+.aa {
+  background-color: red;
+}

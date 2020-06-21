@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "id": 5,
+      "title": "Bibimbap: ",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg",
+      "price": "20",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "Jjambbong",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181115105744-korean-food0korean-food1310002k-jjambbong.jpg",
+      "price": "15",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "Jjambbong",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181115105952-korean-food148201709001k-budae-jjigaepot-luck-stew-with-hot-dogs-and-baked-beans.jpg",
+      "price": "15",
+      "quantity": 1
+    },
+    {
+      "title": "Tteokguk (떡국):",
+      "price": "12",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181115110949-korean-food130201508010k-tteokgukricecake-soup.jpg",
+      "id": 8,
+      "quantity": 1
+    },
+    {
+      "title": "naengmyeon 중국냉면",
+      "price": "15",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181114130002-korean-food-2620011201007004k-naengmyeon-cold-buckwheat-noodles.jpg",
+      "id": 9,
+      "quantity": 1
+    },
+    {
+      "title": "Jjajangmyeon",
+      "price": "23",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181114125702-korean-food-2511035201406007k-mandabok.jpg",
+      "id": 10
+    }
+  ],
+  "orders": [
+    {
+      "id": 5,
+      "title": "Bibimbap: ",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181114130138-korean-food-2620014201204004k-jeonju-bibimbap.jpg",
+      "price": "20",
+      "quantity": 1
+    }
+  ],
+  "utilisateur": [
+    {
+      "id": 1,
+      "role": "admin",
+      "name": "nesrine",
+      "email": "admin@gmail.com",
+      "password": "0000"
+    },
+    {
+      "name": "dz",
+      "email": "ee",
+      "password": "ee",
+      "role": "client",
+      "id": 2
+    }
+  ]
+}
